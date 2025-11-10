@@ -1,7 +1,9 @@
 meme_dict = {
             "CRINGE": "Algo vergonhoso ou constrangedor",
             "STALKEAR": "Investigar a vida de alguém online",
-            "VDD": "Abreviação de verdade"
+            "VDD": "Abreviação de verdade",
+            "TLGD": "Abreviação para To ligado",
+            "PAIA": "Algo sem graça, ruim ou chato"
             }
 
 word = input("Digite uma palavra moderna que você não entende (escreva todo a palavra em letras maiúsculas): ")
